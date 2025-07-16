@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on PLATFORMS LIKE Leet-Code, etc
 - 📫 How to reach me https://github.com/bchaitanya92
 - 😄 Pronouns: Him
-- ⚡ Facts:   Knogledge Shared is Knowledge Retained.
+- ⚡ Facts:   Knowledge Shared is Knowledge Retained.
 - 
 
 <!---
