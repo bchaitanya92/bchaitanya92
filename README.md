@@ -5,7 +5,6 @@
 - 📫 How to reach me https://github.com/bchaitanya92
 - 😄 Pronouns: Him
 - ⚡ Facts:   Knowledge Shared is Knowledge Retained.
-- 
 
 <!---
 bchaitanya92/bchaitanya92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
