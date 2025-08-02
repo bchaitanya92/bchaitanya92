@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/👨‍💻%20Passionate%20Developer%20&%20Innovator-India%20🇮🇳-orange?style=for-the-badge" alt="Passionate Developer & Innovator from India">
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bchaitanya92&label=Profile%20views&color=0e75b6&style=flat" alt="bchaitanya92" /> </p>
+
 - 🌱 I'm currently learning *Software Architect and Agentic AI*
 
 - 👨‍💻 I'm currently working on [Nutri_Quest](https://github.com/bchaitanya92/Nutri_Quest.git) and [Oral_Cancer_Prediction](https://github.com/bchaitanya92/Oral_Cancer_Prediction.git)
