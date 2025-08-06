@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bchaitanya92&show_icons=true&locale=en" alt="bchaitanya92" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bchaitanya92&" alt="bchaitanya92" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bchaitanya92&" alt="bchaitanya92" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
