@@ -25,7 +25,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bchaitanya92&show_icons=true&locale=en" alt="bchaitanya92" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bchaitanya92&show_icons=true&locale=en" alt="bchaitanya92" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bchaitanya92&" alt="bchaitanya92" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bchaitanya92&" alt="bchaitanya92" /></p>
 
