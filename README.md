@@ -27,11 +27,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bchaitanya92&layout=compact" alt="Top Languages" />
-  <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Calendar" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=bchaitanya92&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bchaitanya92" alt="GitHub Streak" />
-  <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Calendar" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
